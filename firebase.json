@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"kkscan-mobile","appId":"1:652310409489:android:56fd9e6968da32ea38dcb0","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"kkscan-mobile","configurations":{"android":"1:652310409489:android:56fd9e6968da32ea38dcb0","ios":"1:652310409489:ios:2486b3d187080d1738dcb0"}}}}}}
